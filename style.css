@@ -171,7 +171,7 @@ header input,
 
 /*about section start */
 .about{
-  background: url(/images/about-bg.png);
+  background: url(./images/about-bg.png);
   background-size: cover;
   background-position: center;
   padding-bottom: 3rem;
@@ -225,7 +225,7 @@ header input,
 
   text-align: center;
   padding: 5rem 1rem;
-  background: url(/images/subscribe-bg.png)no-repeat;
+  background: url(./images/subscribe-bg.png)no-repeat;
   background-position: center;
 
 
@@ -466,7 +466,7 @@ header input,
 /*footer styles start here*/
 .footer{
   padding-top: 3rem;
-  background: url("/images/footer-bg.png")no-repeat;
+  background: url("./images/footer-bg.png")no-repeat;
   background-size: cover;
   background-position: center;
 }
